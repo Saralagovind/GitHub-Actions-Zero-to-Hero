@@ -1,5 +1,5 @@
 #this is phthon based code
-name: My First GitHub Actions
+name: My First GitHub Actions file
 
 on: [push]
 
